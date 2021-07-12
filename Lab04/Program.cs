@@ -27,7 +27,7 @@ namespace Lab04
 
             var result = operationcal.Execute();
 
-            Console.WriteLine($"Summary: " + result);
+            Console.WriteLine("Summary: " + result);
             Console.ReadLine();
         }
     }

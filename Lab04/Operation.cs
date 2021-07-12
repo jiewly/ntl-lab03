@@ -28,7 +28,7 @@ namespace Lab04
             {
                 return this.num1 - this.num2;
             }
-            else if (this.operation == "*")//multiplication sign
+            else if  (this.operation == "*")//multiplication sign
             {
                 return this.num1 * this.num2;
             }
@@ -36,7 +36,7 @@ namespace Lab04
             {
                 return this.num1 / this.num2;
             }
-            else
+            else 
             {
                 throw new Exception("***Error***");//Prevent error information
             }
