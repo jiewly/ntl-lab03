@@ -1,0 +1,7 @@
+D:\CFJIEW\Lab04\Lab04\bin\Debug\Lab04.exe.config
+D:\CFJIEW\Lab04\Lab04\bin\Debug\Lab04.exe
+D:\CFJIEW\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\CFJIEW\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+D:\CFJIEW\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\CFJIEW\Lab04\Lab04\obj\Debug\Lab04.exe
+D:\CFJIEW\Lab04\Lab04\obj\Debug\Lab04.pdb
